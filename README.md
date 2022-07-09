@@ -1,0 +1,2 @@
+# EdITIntroduccionABasesDeDatosMYSQL
+Querys de mysql 
